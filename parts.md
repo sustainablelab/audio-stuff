@@ -100,6 +100,14 @@ link:
 
     https://korginc.github.io/logue-sdk/unit-index/
 
+People make oscillators and other things to load with Digital
+Librarian. Once loaded, it stays on the Korg NTS-1. You still
+need to set all values when powering it on.
+
+Here is a site with some free oscillators:
+
+    https://rolllogsounds.gumroad.com/l/rolllog_nts1_pack
+
 ### MIDI control
 
 The Korg NTS-1 has a midi input but it is a TRS jack. Connect a
